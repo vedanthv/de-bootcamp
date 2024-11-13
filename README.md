@@ -87,5 +87,5 @@ The data would persist in volume even if we do ```docker compose down```
 
 **Show the data**
 
-![image](https://github.com/user-attachments/assets/99d6818f-e531-444e-8da5-d9d3601d2f73)
+![image](https://github.com/user-attachments/assets/91036353-0b0d-4b73-a9af-3fa87017d776)
 
