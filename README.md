@@ -2,6 +2,8 @@
 
 ## Troubleshooting
 
+### Day 1
+
 1. How to ```git clone...```
 
 Check this : https://github.com/orgs/community/discussions/101536
@@ -89,3 +91,5 @@ The data would persist in volume even if we do ```docker compose down```
 
 ![image](https://github.com/user-attachments/assets/91036353-0b0d-4b73-a9af-3fa87017d776)
 
+Finally Loaded!
+![image](https://github.com/user-attachments/assets/af801c60-d4b2-47c9-86ba-2ba650cff5b2)
